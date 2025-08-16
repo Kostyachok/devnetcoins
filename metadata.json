@@ -1,0 +1,10 @@
+{
+  "name": "Kostya Coin",
+  "symbol": "KST",
+  "description": "Первая тестовая монета Константина на Solana (devnet).",
+  "image": "https://<тут-ссылка-на-логотип>",
+  "extensions": {
+    "website": "https://<опционально-сайт>",
+    "twitter": "https://x.com/<опционально>"
+  }
+}
